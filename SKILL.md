@@ -3,7 +3,7 @@ name: effects
 description: Add any of 42 video effects to a talking-head video (orbit, spotlight, glass widgets, timeline, checklist, headline wall, comment box, phone fan, liquid glass graph, match-cut, iPhone toggles, LED sign and more). Effects track the speaker's face and can sit behind their head. Use when the user types /effects, names one of the effects, or asks to add an effect, zoom, grade, sticker or animation to their video.
 ---
 
-# Effects: 42 starter video effects (by @vibha.in.progress)
+# Effects: 42 starter video effects
 
 The user is usually not technical. Keep replies short and friendly, do the work for them, and never ask them to run commands themselves.
 
